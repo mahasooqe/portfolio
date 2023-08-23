@@ -14,15 +14,13 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html#about
 cta-text-3-url: index.html
 
--- hero.hero-1: I'm John Doe
+-- hero.hero-1: I'm Mohammed mahashooque
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets.ape-1.jpg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
-
-
+I'm a dedicated software developer with a passion for crafting efficient and user-friendly applications. Proficient in various programming languages and technologies, 
+I thrive on solving complex problems and delivering high-quality solutions. My goal is to create software that enhances user experiences and drives innovation in the tech industry.
 -- end: lib.page
